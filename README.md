@@ -1,4 +1,4 @@
 ## Kattis
-- Author: *itskoi*
-- [Facebook](https://www.facebook.com/itskoi)
-> Hello World 
+* Author: _*itskoi*_
+* Facebook: [itskoi]https://www.facebook.com/itskoi)
+> _*Hello World !*_
